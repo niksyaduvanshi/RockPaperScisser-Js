@@ -4,7 +4,7 @@ const choices = document.querySelectorAll(".choice");
 const msg = document.querySelector(".msg");
 const userScore = document.querySelector("#user-score");
 const compScore = document.querySelector("#comp-score");
-
+const resetBtn = document.querySelector("#reset");
 
 const genCompChoice = () => {
   const option = ["rock", "paper", "scissors"];
@@ -38,4 +38,12 @@ choices.forEach((choice) => {
     const userChoice = choice.getAttribute("id");
     playGame(userChoice);
   });
+});
+
+resetBtn.addEventListener("click", () => {
+  userscore = 0;
+  computerscore = 0;
+  userScore.innerText = `${userscore}`;
+  compScore.innerText = `${computerscore}`;
+  msg.innerText = "Game reset! Choose again.";
 });
