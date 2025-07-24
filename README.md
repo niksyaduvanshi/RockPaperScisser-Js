@@ -4,6 +4,10 @@ A simple and interactive Rock-Paper-Scissors web game built with **HTML**, **CSS
 
 ## 📁 Project Structure
 
+├── index.html # Main HTML structure
+├── style.css # Styling and layout
+├── app.js # Game logic with DOM manipulation
+└── images/ # Icons for rock, paper, scissors
 
 ## 🎮 Features
 
