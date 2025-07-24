@@ -2,10 +2,6 @@
 
 A simple and interactive Rock-Paper-Scissors web game built with **HTML**, **CSS**, and **JavaScript**. The player competes against the computer, and the scores are tracked in real-time.
 
-## 🚀 Live Demo
-
-(You can host it using GitHub Pages or Netlify and put the link here.)
-
 ## 📁 Project Structure
 
 
