@@ -30,6 +30,6 @@ A simple and interactive Rock-Paper-Scissors web game built with **HTML**, **CSS
 
 ## 📦 How to Run Locally
 
-  - Clone the repo: git clone https://github.com/your-username/rock-paper-scissors
+  - Clone the repo: git clone https://github.com/niksyaduvanshi/RockPaperScisser-Js.git
   - Navigate to folder: cd rock-paper-scissors
   - Open index.html in any modern web browser
