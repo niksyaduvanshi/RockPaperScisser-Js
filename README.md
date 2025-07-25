@@ -10,7 +10,6 @@ A simple and interactive Rock-Paper-Scissors web game built with **HTML**, **CSS
 
 ├── app.js # Game logic with DOM manipulation
 
-└── images/ # Icons for rock, paper, scissors
 
 ## 🎮 Features
 
@@ -29,7 +28,7 @@ A simple and interactive Rock-Paper-Scissors web game built with **HTML**, **CSS
 
 ## 🖼️ Game UI
 
-![alt text](image.png)
+![UI Image](images/image.png)
 
 ## 📦 How to Run Locally
 
